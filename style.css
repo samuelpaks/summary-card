@@ -16,12 +16,8 @@ body{
     background-color: hsl(206, 64%, 86%);
     gap: 1rem;
     background-image:url(/images/pattern-background-desktop.svg);
-     background-size: contain;
 }
 
-.color-half{
-    background-color: red;
-}
 .container{
     display: flex;
     flex-direction: column;
@@ -91,8 +87,7 @@ body{
 
 
 .change:hover{
-    color:  hsla(245, 73%, 58%, 0.96)
-    ;
+    color:  hsla(245, 73%, 58%, 0.96);
 }
 
 .payment{
